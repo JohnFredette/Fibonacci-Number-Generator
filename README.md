@@ -4,6 +4,7 @@ The script takes no command line arguments.
 Upon running it, the user is presented with a list of menu options to choose from. 
 
 Each option performs a different operation: 
+
 0. Exit - Exits the Program 
 1. Specific Index - Will print the Nth term of the Fibonacci Sequence (between 1 and 47)
 2. Up to an Index - Will print all the numbers of the Fibonacci Sequence from the 1st up to the Nth term (between 1 and 47)
