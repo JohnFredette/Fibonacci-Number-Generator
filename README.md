@@ -11,10 +11,16 @@ Each option performs a different operation:
 3. All possible with type int - Prints the first 47 numbers of the Fibonacci sequence. 
 
 The script contains four functions besides main():
+
 int fibonacci_generator(int index): Responsible for allocating space for and calculating the Fibonacci Sequence up to the requested index.
+
 void Specific_Index(void): Responsible for the 1st menu option
+
 void Up_to_Index(void): Responsible for the 2nd menu option
+
 void All_Possible(void): Responsible for the 3rd menu option
+
+
 
 Each of the void functions calls fibonacci_generator to generate the numbers. 
 After receiving the pointer to the array of Fibonacci numbers, each of the void functions prints the results as described previously. 
